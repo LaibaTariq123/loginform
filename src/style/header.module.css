@@ -1,0 +1,9 @@
+.header_body {
+	text-align: left;
+	padding-right: 20%;
+	background-color: whitesmoke;
+}
+ul {
+	display: inline-flex;
+	list-style: none;
+}

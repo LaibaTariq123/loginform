@@ -1,0 +1,14 @@
+.login_body {
+	text-align: center;
+	padding-top: 50px;
+	background-color: palevioletred;
+	padding-bottom: 100px;
+	height: 700px;
+}
+form div label {
+	padding-right: 20px;
+}
+form div input {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
